@@ -28,7 +28,7 @@ app.get('/api/notes', (res, req) => {
 })
 
 
-api.post('/api/notes', (req, res) =>
+api.post('/api/notes', (req, res) =>{
 const newNote = req.body;
 
 console.log(JSON.stringify(newNote));
