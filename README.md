@@ -14,7 +14,7 @@ Product that lets you add and edit notes while saving them on a server
 ## Installation
 Npm i and npm express
 ## Usage
-npm start then go to localhost:3001
+npm start then go to localhost:3001 or use Deployed application https://note-taker-jdb.herokuapp.com/notes
 ## License
 MIT 
 [MIT License link](https://opensource.org/licenses/MIT)
